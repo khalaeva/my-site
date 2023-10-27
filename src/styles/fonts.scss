@@ -2,3 +2,18 @@
     font-family: 'MainFont';
     src: url(../fonts/Tokeely_Brookings_Schatten.ttf) format('truetype');
 } 
+@font-face {
+    font-family: 'Arnamu';
+    src: url(../fonts/arnamu.ttf) format('truetype');
+} 
+@font-face {
+    font-family: 'Mori-Regular';
+    src: url(..\fonts\PPMori-RegularItalic.otf) format('opentype');
+    font-style: italic;
+    font-weight: 900;
+} 
+@font-face {
+    font-family: 'Mori';
+    src: url(..\fonts\PPMori-SemiBoldItalic.otf) format('opentype');
+    font-style: italic;
+} 
